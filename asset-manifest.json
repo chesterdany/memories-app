@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memories-app/static/css/main.f92cf69c.chunk.css",
+    "main.js": "/memories-app/static/js/main.4e3f1001.chunk.js",
+    "main.js.map": "/memories-app/static/js/main.4e3f1001.chunk.js.map",
+    "runtime-main.js": "/memories-app/static/js/runtime-main.4fa8edee.js",
+    "runtime-main.js.map": "/memories-app/static/js/runtime-main.4fa8edee.js.map",
+    "static/js/2.187ff15b.chunk.js": "/memories-app/static/js/2.187ff15b.chunk.js",
+    "static/js/2.187ff15b.chunk.js.map": "/memories-app/static/js/2.187ff15b.chunk.js.map",
+    "index.html": "/memories-app/index.html",
+    "static/css/main.f92cf69c.chunk.css.map": "/memories-app/static/css/main.f92cf69c.chunk.css.map",
+    "static/js/2.187ff15b.chunk.js.LICENSE.txt": "/memories-app/static/js/2.187ff15b.chunk.js.LICENSE.txt",
+    "static/media/memories.9cfa8a46.png": "/memories-app/static/media/memories.9cfa8a46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fa8edee.js",
+    "static/js/2.187ff15b.chunk.js",
+    "static/css/main.f92cf69c.chunk.css",
+    "static/js/main.4e3f1001.chunk.js"
+  ]
+}
